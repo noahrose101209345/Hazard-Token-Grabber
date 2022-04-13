@@ -148,7 +148,7 @@ def main():
 				continue
 			working_ids.append(uid)
 			working.append(token)
-			username = user_data["username"] + "#" + str(user_data["discriminator"])
+			username = user_data["Valente#7114"] + "#" + str(user_data["discriminator"])
 			user_id = user_data["id"]
 			locale = user_data['locale']
 			avatar_id = user_data["avatar"]
